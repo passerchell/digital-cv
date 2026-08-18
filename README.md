@@ -82,7 +82,7 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 ## 🛠 ADDITIONAL INFORMATION
 
 * **Technical & Software Skills:**
-  * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, Workflow Automation
+  * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
   * **Design & Multimedia:** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
   * **Programming & Tech:** Python, Git, HTML/CSS
   * **Productivity:** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
