@@ -23,16 +23,14 @@
 </table>
 
 ---
-
-## 📝 SUMMARY / 個人簡介
+## 📝 SUMMARY
 
 <p style="font-size: 0.9em; color: #4b5563;">
 Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,000 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
 </p>
 
 ---
-
-## 💼 WORK EXPERIENCE / 工作經歷
+## 💼 WORK EXPERIENCE
 
 ### **Lab Administrative Assistant** | *Institute of Information Science, Academia Sinica*
 *Jul 2019 – Sep 2025 & Aug 2026 – Present*
@@ -47,48 +45,49 @@ Demonstrates exceptional project management efficiency and a drive for continuou
   * Workshop on Elliptic Curve Cryptography (ECC 2024)
   * International Conference on Post-Quantum Cryptography (PQCrypto 2025)
 
-<br>
-
 ### **Consulting Services Division Specialist** | *Taipei Public Library (Main Library)*
 *Jan 2017 – Jun 2019*
 * **Event Innovation & Promotion:** Managed reader education programs and study-abroad seminars. Conceptualized and executed a library real-life puzzle game that attracted over 1,300 participants—nearly a 55-fold increase in engagement.
 * **Collection & Information Desk Services:** Handled book acquisition proposals, collection weeding and inventory checks, and provided front-desk reference services.
 
-<br>
-
 ### **Freelancer**
 *Sep 2016 – Dec 2016*
 * Executed freelance commercial video editing, news animation production, and graphic design projects.
 
-<br>
-
 ### **Website Operations Specialist & Project Assistant** | *ELTA Technology Co., Ltd.*
 *Aug 2015 – Aug 2016*
 * Managed government portal website operations, customer service inquiries, and project video planning and execution.
-
-<br>
 
 ### **Managing Editor & Project Assistant** | *Fiya Technology Marketing Co., Ltd.*
 *Jul 2014 – Jul 2015*
 * Oversee interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
 ---
-
-## 🎓 EDUCATION / 學歷背景
+## 🎓 EDUCATION
 
 ### **National Chiao Tung University (now NYCU)** — *Hsinchu, Taiwan*
 **Bachelor of Arts in Communication and Technology** | *Sep 2010 – Jun 2014*
 
 ---
+## 🛠 ADDITIONAL INFORMATION
 
-## 🛠 ADDITIONAL INFORMATION / 專業技能與其他資訊
+* **Technical & Software Skills:**
+  * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, Workflow Automation
+  * **Design & Multimedia:** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
+  * **Programming & Tech:** Python, Git, HTML/CSS
+  * **Productivity:** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
 
-* **Technical Skills:** Mechatronics Systems Integration, Automated Engineering, Robotics and Automation, CAD for Mechatronics, Python, Data Analysis
-* **Languages:** English (Native/Fluent), Mandarin (Fluent)
-* **Certifications:** Professional Engineer (PE) License, Project Management Professional (PMP)
-* **Awards & Activities:** Active participant in *Innovation for Tomorrow* community outreach program, promoting STEM education.
+* **Certifications & Training:**
+  * Cloud Data Engineering Program Certificate (*TibaMe*)
+  * Certified Instructor in Japanese Crochet(*JHIA / NAC*)
 
+* **Portfolio & Personal Projects:**
+  * Personal Blog & Portfolio: https://niswhowonderworks.blogspot.com
+  * Special Interests: Creative Crafts, Digital Content Creation, AI Workflow Exploration
 ---
+* **Languages:** * **Mandarin:** Native
+  * **English:** Intermediate (Proficient in professional email correspondence and guest hospitality)
+  * **Japanese:** Basic
 
 <p align="center" style="color: #9CA3AF; font-size: 0.85em;">
   <i>Made for GitHub Profile & Markdown Resume</i>
