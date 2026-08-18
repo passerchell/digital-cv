@@ -1,17 +1,23 @@
 <table border="0" width="100%">
   <tr>
     <td width="22%" align="center" valign="top">
-      <!-- 請替換為您的照片 URL 或 repository 中的圖片路徑，如 ./avatar.jpg -->
-      <img src="https://via.placeholder.com/150" alt="Profile Picture" width="130" style="border-radius: 50%;">
+      <img src="https://academiasinicanlplab.github.io/images/members/chell.jpg" alt="Profile Picture" width="130" style="border-radius: 50%;">
     </td>
     <td width="78%" valign="top">
-      <h1 style="border-bottom: none; margin-bottom: 5px; color: #1E3A8A;">BENJAMIN SHAH</h1>
-      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>Senior Systems & Automation Engineer</strong></p>
+      <h1 style="border-bottom: none; margin-bottom: 5px; color: #1E3A8A;">Chell Chien</h1>
+      <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>Admin. Assistant</strong></p>
       <p style="font-size: 0.9em; line-height: 1.6; color: #374151;">
-        📍 <b>Location:</b> Taipei, Taiwan &nbsp;|&nbsp; 📞 <b>Phone:</b> +886 912-345-678<br>
-        ✉️ <b>Email:</b> <a href="mailto:your.email@example.com">your.email@example.com</a> &nbsp;|&nbsp; 🌐 <b>Website:</b> <a href="https://yourwebsite.com">yourwebsite.com</a><br>
-        🔗 <b>LinkedIn:</b> <a href="https://linkedin.com/in/yourprofile">linkedin.com/in/yourprofile</a> &nbsp;|&nbsp; 💻 <b>GitHub:</b> <a href="https://github.com/yourusername">github.com/yourusername</a>
-      </p>
+<table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse;">
+  <tr>
+    <td style="padding-right: 12px;">📍 <b>Location:</b> Taipei, Taiwan</td>
+    <td>🌐 <b>Website:</b> <a href="https://niswhowonderworks.blogspot.com" target="_blank" rel="noopener noreferrer">不可思議研究所</a></td>
+  </tr>
+  <tr>
+    <td style="padding-right: 12px;">✉️ <b>Email:</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
+    <td>💻 <b>GitHub:</b> <a href="https://github.com/passerchell" target="_blank" rel="noopener noreferrer">github.com/passerchell</a></td>
+  </tr>
+</table>
+      </p>  
     </td>
   </tr>
 </table>
@@ -20,7 +26,11 @@
 
 ## 📝 SUMMARY / 個人簡介
 
-Results-oriented Mechanical and Mechatronics Engineer seeking a challenging position to scale expertise in designing and implementing innovative solutions for complex engineering challenges. Proven track record of success in project management, problem-solving, and cross-functional leadership. Adept at utilizing cutting-edge technologies to optimize processes and enhance overall efficiency.
+具備極具效率的專案管理能力和持續探索的好奇心。善於將數位工具應用於流程優化，並具備跨部門溝通與大型活動執行經驗。在專案執行方面具備良好實績，企劃圖書館實境解謎活動，創造破千人參與、成長近 55 倍的成果，以及籌備中研院資訊所2022-2025年國際會議進行。
+
+<p style="font-size: 0.9em; color: #4b5563;">
+Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,000 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
+</p>
 
 ---
 
