@@ -82,7 +82,7 @@
 ## 🛠 專業技能與其他資訊
 
 * **專業技能（Software & Technical Skills）：**
-  * **AI 與自動化工具：** ChatGPT, Claude, Gemini, AI Prompt Engineering, Workflow Automation
+  * **AI 與自動化工具：** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
   * **視覺與影音設計：** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
   * **程式工具與技術：** Python, Git, HTML/CSS
   * **辦公室軟體：** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
