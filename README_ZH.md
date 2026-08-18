@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td style="padding-right: 12px;">✉️ <b>Email：</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
-    <td>💻 <b>GitHub：</b> <a href="https://github.com/passerchell" target="_blank" rel="noopener noreferrer">github.com/passerchell</a></td>
+    <td>💼 <b>LinkedIn：</b> <a href="https://www.linkedin.com/in/wei-chien-18845283/" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
   </tr>
 </table>
       </p>  
