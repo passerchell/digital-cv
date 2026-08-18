@@ -33,7 +33,7 @@
 </table>
 
 ---
-## 📝 SUMMARY
+## 📝 PROFILE
 
 <p style="font-size: 0.9em; color: #4b5563;">
 Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,000 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
