@@ -26,8 +26,6 @@
 
 ## 📝 SUMMARY / 個人簡介
 
-具備極具效率的專案管理能力和持續探索的好奇心。善於將數位工具應用於流程優化，並具備跨部門溝通與大型活動執行經驗。在專案執行方面具備良好實績，企劃圖書館實境解謎活動，創造破千人參與、成長近 55 倍的成果，以及籌備中研院資訊所2022-2025年國際會議進行。
-
 <p style="font-size: 0.9em; color: #4b5563;">
 Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,000 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
 </p>
@@ -36,42 +34,50 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 
 ## 💼 WORK EXPERIENCE / 工作經歷
 
-### **Mechatronics Engineer** | *Advantech Technologies*
-*Jan 2023 – Present*
-* Led development of an advanced automation system, achieving a **15% increase** in operational efficiency.
-* Streamlined manufacturing processes, reducing production costs by **10%**.
-* Implemented preventive maintenance strategies, resulting in a **20% decrease** in equipment downtime.
+### **Lab Administrative Assistant** | *Institute of Information Science, Academia Sinica*
+*Jul 2019 – Sep 2025 & Aug 2026 – Present*
+
+* **Lab Operations & Budgeting:** Managed budget reimbursements, financial tracking, and equipment procurement/inventory across 3 research labs (PIs: Dr. Lun-Wei Ku, Dr. Kai-Min Chung, Dr. Han-Hsuan Huang).
+* **HR & Travel Management:** Handled onboarding/offboarding, salary adjustments, domestic/international travel requests, and international visiting scholar hospitality and expense processing.
+* **Project Reporting & Compliance Review:** Compiled final project closure reports and assisted with lab IRB (Institutional Review Board) application documentation.
+* **International Conference Execution:**
+  * The 12th Annual Conference on Quantum Cryptography (QCrypt 2022)
+  * The 28th International Conference on the Theory and Application of Cryptology and Information Security (Asiacrypt 2022)
+  * Theory of Cryptography Conference (TCC 2023)
+  * Workshop on Elliptic Curve Cryptography (ECC 2024)
+  * International Conference on Post-Quantum Cryptography (PQCrypto 2025)
 
 <br>
 
-### **System Engineer** | *Aimex Robotics*
-*Feb 2021 – Dec 2022*
-* Designed and optimized a robotic control system, enabling a **12% performance improvement**.
-* Coordinated testing and verification, ensuring compliance with industry standards.
-* Provided technical capabilities, contributing to a **15% reduction** in system failures.
+### **Consulting Services Division Specialist** | *Taipei Public Library (Main Library)*
+*Jan 2017 – Jun 2019*
+* **Event Innovation & Promotion:** Managed reader education programs and study-abroad seminars. Conceptualized and executed a library real-life puzzle game that attracted over 1,300 participants—nearly a 55-fold increase in engagement.
+* **Collection & Information Desk Services:** Handled book acquisition proposals, collection weeding and inventory checks, and provided front-desk reference services.
 
 <br>
 
-### **Junior Project Engineer** | *Precision & Co. Manufacturing*
-*Mar 2019 – Jan 2021*
-* Managed full lifecycle of a cutting-edge automation project, meeting all milestones.
-* Conducted feasibility studies and risk assessments, mitigating potential project risks.
-* Collaborated with clients, leading to a **25% increase** in customer satisfaction.
+### **Freelancer**
+*Sep 2016 – Dec 2016*
+* Executed freelance commercial video editing, news animation production, and graphic design projects.
+
+<br>
+
+### **Website Operations Specialist & Project Assistant** | *ELTA Technology Co., Ltd.*
+*Aug 2015 – Aug 2016*
+* Managed government portal website operations, customer service inquiries, and project video planning and execution.
+
+<br>
+
+### **Managing Editor & Project Assistant** | *Fiya Technology Marketing Co., Ltd.*
+*Jul 2014 – Jul 2015*
+* Oversee interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
 ---
 
 ## 🎓 EDUCATION / 學歷背景
 
-### **Bachelor of Science in Mechatronics Engineering with Honors**
-*University of Engineering Excellence* | *Aug 2015 – Dec 2019*
-* **Major:** Automotive Technology
-* **Thesis:** *Technological Advancements within the Current Medical Device Industry*
-
-<br>
-
-### **Diploma in Mechanical Engineering**
-*Engineering University* | *May 2013 – Nov 2015*
-* **Relevant Coursework:** Structural Design and Project Management
+### **National Chiao Tung University (now NYCU)** — *Hsinchu, Taiwan*
+**Bachelor of Arts in Communication and Technology** | *Sep 2010 – Jun 2014*
 
 ---
 
