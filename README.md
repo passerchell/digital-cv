@@ -1,3 +1,13 @@
+<p align="center">
+  <a href="./README_ZH.md">
+    <img src="https://img.shields.io/badge/語言-繁體中文-lightgrey?style=for-the-badge" alt="繁體中文">
+  </a>
+  &nbsp;
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English">
+  </a>
+</p>
+
 <table border="0" width="100%">
   <tr>
     <td width="22%" align="center" valign="top">
