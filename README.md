@@ -16,18 +16,16 @@
     <td width="78%" valign="top">
       <h1 style="border-bottom: none; margin-bottom: 5px; color: #1E3A8A;">Chell Chien</h1>
       <p style="font-size: 1.05em; color: #4B5563; margin-top: 0;"><strong>Admin. Assistant</strong></p>
-      <p style="font-size: 0.9em; line-height: 1.6; color: #374151;">
-<table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse;">
-  <tr>
-    <td style="padding-right: 12px;">📍 <b>Location:</b> Taipei, Taiwan</td>
-    <td>🌐 <b>Website:</b> <a href="https://niswhowonderworks.blogspot.com" target="_blank" rel="noopener noreferrer">不可思議研究所</a></td>
-  </tr>
-  <tr>
-    <td style="padding-right: 12px;">✉️ <b>Email:</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
-    <td>💻 <b>GitHub:</b> <a href="https://github.com/passerchell" target="_blank" rel="noopener noreferrer">github.com/passerchell</a></td>
-  </tr>
-</table>
-      </p>  
+      <table style="font-size: 0.9em; line-height: 1.6; color: #374151; border-collapse: collapse; border: none;">
+        <tr>
+          <td style="padding-right: 16px;">📍 <b>Location:</b> Taipei, Taiwan</td>
+          <td>🌐 <b>Website:</b> <a href="https://niswhowonderworks.blogspot.com" target="_blank" rel="noopener noreferrer">niswhowonderworks.blogspot.com</a></td>
+        </tr>
+        <tr>
+          <td style="padding-right: 16px;">✉️ <b>Email:</b> <a href="mailto:ching.0812p@gmail.com">ching.0812p@gmail.com</a></td>
+          <td>💼 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/wei-chien-18845283/" target="_blank" rel="noopener noreferrer">Chell Chien</a></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -36,7 +34,7 @@
 ## 📝 PROFILE
 
 <p style="font-size: 0.9em; color: #4b5563;">
-Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,000 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
+Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,300 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
 </p>
 
 ---
@@ -89,13 +87,13 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 
 * **Certifications & Training:**
   * Cloud Data Engineering Program Certificate (*TibaMe*)
-  * Certified Instructor in Japanese Crochet(*JHIA / NAC*)
+  * Certified Instructor in Japanese Crochet (*JHIA / NAC*)
 
-* **Portfolio & Personal Projects:**
-  * Personal Blog & Portfolio: https://niswhowonderworks.blogspot.com
-  * Special Interests: Creative Crafts, Digital Content Creation, AI Workflow Exploration
----
-* **Languages:** * **Mandarin:** Native
+* **Portfolio & Special Interests:**
+  * **Personal Blog:** Focuses on creative craft projects, digital content creation, and AI workflow exploration.
+
+* **Languages:**
+  * **Mandarin:** Native
   * **English:** Intermediate (Proficient in professional email correspondence and guest hospitality)
   * **Japanese:** Basic
 
