@@ -89,8 +89,8 @@ Demonstrates exceptional project management efficiency and a drive for continuou
   * Cloud Data Engineering Program Certificate (*TibaMe*)
   * Certified Instructor in Japanese Crochet (*JHIA / NAC*)
 
-* **Portfolio & Special Interests:**
-  * **Personal Blog:** Focuses on creative craft projects, digital content creation, and AI workflow exploration.
+* **Special Interests:**
+  * Focuses on creative craft projects, digital content creation, and AI workflow exploration.
 
 * **Languages:**
   * **Mandarin:** Native
