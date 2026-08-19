@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/語言-繁體中文-lightgrey?style=for-the-badge" alt="繁體中文">
   </a>
   &nbsp;
-  <a href="./index.md">
+  <a href="./index.html">
     <img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English">
   </a>
 </p>
