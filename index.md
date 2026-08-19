@@ -35,14 +35,14 @@
 </table>
 
 ---
-## 📝 PROFILE
+## PROFILE
 
 <p style="font-size: 0.9em; color: #4b5563;">
 Demonstrates exceptional project management efficiency and a drive for continuous learning. Skilled in leveraging digital tools to optimize workflows, with proven experience in cross-functional communication and large-scale event execution. Holds a strong track record of project execution, including designing a library immersive puzzle game that attracted over 1,300 participants—nearly a 55-fold increase in engagement. Additionally organized and coordinated international conferences at Academia Sinica's Institute of Information Science from 2022 to 2025.
 </p>
 
 ---
-## 💼 WORK EXPERIENCE
+## WORK EXPERIENCE
 
 ### **Lab Administrative Assistant** | *Institute of Information Science, Academia Sinica*
 *Jul 2019 – Nov 2025 & Aug 2026 – Present*
@@ -76,13 +76,13 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 * Oversee interviewing and reporting for ACG (Animation, Comics, Games) news sites, managed official Facebook page operations, and planned and executed themed physical events as well as tech marketing projects.
 
 ---
-## 🎓 EDUCATION
+## EDUCATION
 
 ### **National Chiao Tung University (now NYCU)** — *Hsinchu, Taiwan*
 **Bachelor of Arts in Communication and Technology** | *Sep 2010 – Jun 2014*
 
 ---
-## 🛠 ADDITIONAL INFORMATION
+## ADDITIONAL INFORMATION
 
 * **Technical & Software Skills:**
   * **AI & Productivity Tools:** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
@@ -94,8 +94,8 @@ Demonstrates exceptional project management efficiency and a drive for continuou
   * Cloud Data Engineering Program Certificate (*TibaMe*)
   * Certified Instructor in Japanese Crochet (*JHIA / NAC*)
 
-* **Portfolio & Special Interests:**
-  * **Personal Blog:** Focuses on creative craft projects, digital content creation, and AI workflow exploration.
+* **Special Interests:**
+  * Focuses on creative craft projects, digital content creation, and AI workflow exploration.
 
 * **Languages:**
   * **Mandarin:** Native
