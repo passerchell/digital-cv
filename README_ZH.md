@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <a href="./README_ZH.md">
+  <a href="./readme_zh.html">
     <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
   </a>
   &nbsp;
