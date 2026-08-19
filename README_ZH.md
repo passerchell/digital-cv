@@ -2,7 +2,7 @@
 ---
 
 <p align="center">
-  <a href="./readme_zh.html">
+  <a href="https://passerchell.github.io/digital-cv/README_ZH">
     <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
   </a>
   &nbsp;
