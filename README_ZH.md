@@ -1,3 +1,19 @@
+---
+---
+<style>
+  .page-header { display: none !important; }
+</style>
+
+<p align="center">
+  <a href="./zh">
+    <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
+  </a>
+  &nbsp;
+  <a href="./">
+    <img src="https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge" alt="English">
+  </a>
+</p>
+
 <p align="center">
   <a href="./README_ZH.md">
     <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
