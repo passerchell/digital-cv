@@ -81,20 +81,20 @@
 ---
 ## 🛠 專業技能與其他資訊
 
-* **專業技能（Software & Technical Skills）：**
+* **專業技能：**
   * **AI 與自動化工具：** ChatGPT, Claude, Gemini, AI Prompt Engineering, AI-Assisted Workflows
   * **視覺與影音設計：** Adobe Photoshop, Illustrator, Premiere Pro, After Effects
   * **程式工具與技術：** Python, Git, HTML/CSS
   * **辦公室軟體：** Google Workspace, Microsoft Office (Excel, Word, PowerPoint)
 
-* **專業認證與進修（Certifications & Training）：**
+* **專業認證與進修：**
   * 雲端資料工程專業培訓認證（Cloud Data Engineering Program — 緯育 TibaMe）
   * 日本手工藝普及協會（JHIA / NAC）/ 鉤針編織講師認證
 
-* **作品集與其他（Portfolio & Personal Projects）：**
-  * 興趣領域：手作編織創作、數位內容企劃、AI 應用工具探索
+* **興趣領域：**
+  * 手作編織創作、數位內容企劃、AI 應用工具探索
 
-* **語言能力（Languages）：**
+* **語言能力：**
   * **中文：** 母語 (Native)
   * **英文：** 中等 (Intermediate)
   * **日文：** 略懂 (Basic)
