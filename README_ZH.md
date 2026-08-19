@@ -5,16 +5,6 @@
 </style>
 
 <p align="center">
-  <a href="./zh">
-    <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
-  </a>
-  &nbsp;
-  <a href="./">
-    <img src="https://img.shields.io/badge/Language-English-lightgrey?style=for-the-badge" alt="English">
-  </a>
-</p>
-
-<p align="center">
   <a href="./README_ZH.md">
     <img src="https://img.shields.io/badge/語言-繁體中文-blue?style=for-the-badge" alt="繁體中文">
   </a>
@@ -60,6 +50,7 @@
 
 ### **研究室行政助理** | *中央研究院 資訊科學研究所*
 *2019 年 7 月 – 2025 年 9 月 & 2026 年 8 月 – 今*
+*（2025 年 9 月 – 2026 年 8 月：育嬰留職停薪）*
 
 * **研究室營運與預算管控：** 負責 3 間實驗室（主持人：古倫維研究員、鐘楷閔研究員、黃瀚萱研究員）之經費核銷、財務帳務追蹤、設備採購與財產盤點。
 * **人事與差旅管理：** 辦理人員聘僱與離職手續、薪資調整、國內外差旅報支，以及國際訪問學者來訪接待與費用核銷。
