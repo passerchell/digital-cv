@@ -1,3 +1,7 @@
+---
+---
+<style>.page-header { display: none !important; }</style>
+
 <p align="center">
   <a href="./README_ZH.md">
     <img src="https://img.shields.io/badge/語言-繁體中文-lightgrey?style=for-the-badge" alt="繁體中文">
