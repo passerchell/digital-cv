@@ -45,8 +45,8 @@ Demonstrates exceptional project management efficiency and a drive for continuou
 ## 💼 WORK EXPERIENCE
 
 ### **Lab Administrative Assistant** | *Institute of Information Science, Academia Sinica*
-*Jul 2019 – Nov 2025 & Aug 2026 – Present*
-*(Nov 2025 – Aug 2026: Parental Leave)*
+*Jul 2019 – Jan 2026 & Aug 2026 – Present*
+*(Jan 2026 – Aug 2026: Parental Leave)*
 
 * **Lab Operations & Budgeting:** Managed budget reimbursements, financial tracking, and equipment procurement/inventory across 3 research labs (PIs: Dr. Lun-Wei Ku, Dr. Kai-Min Chung, Dr. Han-Hsuan Huang).
 * **HR & Travel Management:** Handled onboarding/offboarding, salary adjustments, domestic/international travel requests, and international visiting scholar hospitality and expense processing.
