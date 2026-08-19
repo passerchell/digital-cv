@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="./README_ZH.md">
+  <a href="./README_ZH.html">
     <img src="https://img.shields.io/badge/語言-繁體中文-lightgrey?style=for-the-badge" alt="繁體中文">
   </a>
   &nbsp;
